@@ -4,6 +4,9 @@
 
 Udacity recommends students to install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all sorts of libraries and software for developing this project.
 
+The blog is running on Google Cloud Platform, but the service used in the course is phasing out. The course was built a few years ago (2-3 years) and somethings have changed and might not be supported in the future. 
+The installation instruction provided by Udacity is [here](https://drive.google.com/file/d/0Byu3UemwRffDc21qd3duLW9LMm8/view). Maybe some other platform could be used to host the blog such as AWS.  
+
 ### Code
 
 Template code is provided by Udacity. While some code has already been implemented in the course to get us started, we had to implement additional functionality as requested to successfully complete the project.
